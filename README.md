@@ -1,10 +1,8 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+Java gives me a competitive advantage. As an aspiring software engineer, I would want to stand out from the rest, learning a server-side programming language like Java will help you stand out, and make you eligible for tens of thousands of server-side programming jobs.
 
-{Provide a description the software that you wrote to demonstrate the Java language.}
-
-{Describe your purpose for writing this software.}
+This software has items that are put in the program just like a shoping cart. It also takes in the unit price and quantity of the items that were put in and just like a normal shopping, after you're done, it gives you a receipt that shows the total amount (price)
 
 <!-- {Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the software running and a walkthrough of the code.  Focus should be on sharing what you learned about the language syntax.}
 
@@ -24,7 +22,8 @@ Java is a general-purpose programming language that is class-based and object-or
 # Useful Websites
 
 * [W3Schools - Java](https://www.w3schools.com/java/default.asp)
+* [GeeksforGeeks - ListIterator in Java](https://www.geeksforgeeks.org/listiterator-in-java/)
 
 # Future Work
 
-* Apply Coupon
+* Add tax (maybe)
